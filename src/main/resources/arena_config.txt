@@ -1,0 +1,9 @@
+diceType:six-sided
+playerType:basic
+arenaType:MagicalArena
+numPlayers:5
+player:Niteesh,50,5,10
+player:Satya,100,10,5
+player:Sai,75,8,7
+player:Boddapu,60,6,8
+player:Swiggy,100,10,10
